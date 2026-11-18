@@ -5,6 +5,7 @@
 ### 야구 입문자를 위한 맞춤 해설, 실시간 경기 맥락 설명
 
 ![Hackathon](https://img.shields.io/badge/원티드랩_프롬프톤-2026.02.07_최종발표-3366FF?style=for-the-badge)
+![Award](https://img.shields.io/badge/🏅_MVP_READY상-2026_Big_Data_Promptthon-F5B800?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -17,15 +18,22 @@
 
 ---
 
+## 🏆 수상
+
+| | |
+| --- | --- |
+| **🏅 MVP READY상** | **2026 Big Data Promptthon** — 숙명여자대학교 빅데이터 혁신융합사업단 × (주)원티드랩 · 2026.02.07 · 팀 다 아라쓰<br>개발-테스트-보완 과정을 거쳐 **실제로 작동하는 수준의 우수한 결과물**을 구현한 팀에 수여 |
+
 ## 📌 프로젝트 정보
 
 | | |
 | --- | --- |
 | **프로젝트명** | AI 야구해설위원 — KBO 입문자를 위한 맞춤 해설 · 실시간 경기 맥락 설명 서비스 |
-| **행사** | **원티드랩 프롬프톤 (Wanted LaaS Prompthon)** — 숙명여자대학교 빅데이터 혁신융합사업단 × Wanted |
+| **행사** | **2026 Big Data Promptthon (원티드랩 프롬프톤)** — 숙명여자대학교 빅데이터 혁신융합사업단 × (주)원티드랩 |
 | **팀** | 9팀 「다 아라쓰」 (숙명여자대학교 빅데이터 9조) |
 | **기간** | 2026.01 ~ 2026.02 |
 | **최종 발표** | **2026.02.07** |
+| **발표자료** | [📄 presentation.pdf](docs/presentation.pdf) |
 | **스택** | Wanted LaaS Preset(프롬프트) · FastAPI · SSE · Vanilla JS |
 
 ## 💡 문제 정의
@@ -112,6 +120,7 @@
 │   └── data/                      #   raw(중계 json), processed(규정·응원가 요약)
 ├── notebooks/                     # 규정 ↔ 중계 이벤트 매핑 노트북 및 CSV
 ├── docs/screenshots/              # 서비스 화면
+├── docs/presentation.pdf          # 최종 발표자료
 └── 실행가이드_LaaS_웹이전.txt       # 상세 실행/트러블슈팅 가이드
 ```
 
