@@ -1,0 +1,21 @@
+# secrets
+.env
+*.env
+.env.*
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# tunnel / binaries
+ngrok*/
+ngrok.exe
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.ipynb_checkpoints/

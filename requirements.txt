@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+httpx
+sse-starlette
+pydantic
+# project/collect_relay_innings.py (중계 데이터 수집 스크립트)
+requests
